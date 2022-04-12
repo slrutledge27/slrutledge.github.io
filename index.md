@@ -5,6 +5,14 @@ Ornithology * Evolutionary Biology * Conservation * Bioinformatics
 Ph.D. Student * Louisiana State University, Museum of Natural Science
 
 ### Research
+   #### Color
+   - I am investigating the adaptive functions of avian coloration, with a particular interest in understanding where and why iridescent and other structure-  based plumages have evolved around the world
+    
+   #### Phylogeography and Climatic Modeling 
+   - I am interested in the past and present distributions of avian species, as well as their future geographic ranges in the light of climate change. To investigate this, I employ ecological-niche modeling to predict what environments species can inhabit based on their physical characteristics (e.g., feather structures)
+    
+   #### Natural History Collections 
+   - My research is highly dependent on specimens housed in natural history collections; as such, I am investigating potential biases in contemporary collections, as well as how such biases might be addressed through computational methods and/or future collecting
 
 ### Conservation, Sci Comm, Service
 
